@@ -1,0 +1,170 @@
+Running `(cd /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/; HOME=/home/nik PATH=/home/nik/flutter/bin/cache/dart-sdk/bin/:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/home/nik/flutter/bin:/home/nik/flutter/bin /home/nik/flutter/bin/cache/dart-sdk/bin/dart --packages=/home/nik/dart/ocvtest/.dart_tool/package_config.json /home/nik/dart/ocvtest/.dart_tool/hooks_runner/dartcv4/0c894306e92a2cb094eba2f8002407f5/hook.dill --config=/home/nik/dart/ocvtest/.dart_tool/hooks_runner/dartcv4/0c894306e92a2cb094eba2f8002407f5/input.json )`.
+[dartcv4] include modules: {imgcodecs, imgproc, video, videoio}
+
+[dartcv4] exclude modules: {}
+
+[dartcv4] merged modules: {imgcodecs, imgproc, video, videoio}
+
+
+Looking for CMake on PATH.
+Running `which cmake`.
+
+/usr/bin/cmake
+
+
+Found ToolInstance(CMake, null, file:///usr/bin/cmake).
+
+Looking up version with --version for ToolInstance(CMake, null, file:///usr/bin/cmake).
+
+Running `/usr/bin/cmake --version`.
+
+cmake version 3.31.6
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
+
+
+Found version for ToolInstance(CMake, 3.31.6, file:///usr/bin/cmake).
+
+Running `(cd /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/; HOME=/home/nik PATH=/home/nik/flutter/bin/cache/dart-sdk/bin/:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/home/nik/flutter/bin:/home/nik/flutter/bin /usr/bin/cmake --log-level=STATUS -S /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -B /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/ -DCMAKE_BUILD_TYPE=Release -DCMAKE_SYSTEM_NAME=Linux -DCMAKE_TOOLCHAIN_FILE=/home/nik/.pub-cache/hosted/pub.dev/native_toolchain_cmake-0.2.0/cmake/aarch64-linux-gnu.toolchain.cmake -DFFMPEG_USE_STATIC_LIBS=OFF -DDARTCV_ENABLE_INSTALL=ON -DDARTCV_WORLD=OFF -DCMAKE_INSTALL_PREFIX=/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/ -DDARTCV_WITH_CALIB3D=OFF -DDARTCV_WITH_CONTRIB=OFF -DDARTCV_WITH_DNN=OFF -DDARTCV_WITH_FEATURES2D=OFF -DDARTCV_WITH_FREETYPE=OFF -DDARTCV_WITH_HIGHGUI=OFF -DDARTCV_WITH_IMGCODECS=ON -DDARTCV_WITH_IMGPROC=ON -DDARTCV_WITH_OBJDETECT=OFF -DDARTCV_WITH_PHOTO=OFF -DDARTCV_WITH_STITCHING=OFF -DDARTCV_WITH_VIDEO=ON -DDARTCV_WITH_VIDEOIO=ON )`.
+
+-- Download OpenCV: enabled
+-- Detected processor: aarch64
+-- os: linux, arch: arm64
+-- FETCHCONTENT_BASE_DIR: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps
+
+
+-- OpenCV_DIR: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/lib/cmake/opencv4
+
+
+-- FFMPEG_ROOT: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg
+-- FFMPEG_ARCH: 
+
+
+-- Failed to find avresample version.
+
+
+-- Failed to find postproc version.
+
+
+-- FFMPEG_VERSION: 7.1.1-56-gc2184b65d2-20250724
+
+
+-- Added library: dartcv
+-- DARTCV_DEPS: opencv_core;opencv_imgcodecs;opencv_imgproc;opencv_video;opencv_videoio;FFMPEG::avcodec;FFMPEG::avformat;FFMPEG::avutil;FFMPEG::swscale;FFMPEG::avdevice;FFMPEG::avfilter;FFMPEG::swresample
+
+
+-- Configuring done (0.8s)
+
+
+-- Generating done (0.0s)
+
+
+-- Build files have been written to: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9
+
+
+Looking for CMake on PATH.
+Running `which cmake`.
+
+/usr/bin/cmake
+
+
+Found ToolInstance(CMake, null, file:///usr/bin/cmake).
+
+Running `/usr/bin/cmake --version`.
+
+ ToolInstance(CMake, null, file:///usr/bin/cmake).
+
+cmake version 3.31.6
+
+CMake suite maintained and supported by Kitware (kitware.com/cmake).
+
+
+Found version for ToolInstance(CMake, 3.31.6, file:///usr/bin/cmake).
+
+Running `(cd /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/; HOME=/home/nik PATH=/home/nik/flutter/bin/cache/dart-sdk/bin/:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:/home/nik/flutter/bin:/home/nik/flutter/bin /usr/bin/cmake --build /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/ --config Release --target install )`.
+
+[100%] Built target dartcv
+
+
+Install the project...
+
+
+-- Install configuration: "Release"
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv
+
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/contrib
+
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/contrib/img_hash.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/contrib/ximgproc.h
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/contrib/aruco.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/contrib/wechat_qrcode.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/contrib/xobjdetect.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/contrib/quality.h
+
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/gapi
+
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/imgproc/imgproc.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/objdetect
+
+
+-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/highgui/highgui.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/dnn
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/dnn/dnn.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/features2d
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/features2d/features2d.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/video
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/video/video.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/calib3d
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/calib3d/stereo.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/calib3d/calib3d.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/imgproc
+
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/stitching/stitching.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core/version.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core/svd.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core/exception.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core/utils.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core/stdvec.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core/mat.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core/logging.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core/core.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core/constants.h
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/include/dartcv/core/types.h
+
+
+-- Up-to-date: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libdartcv.so
+-- Installing: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavcodec.so
+
+
+-- Installing: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavformat.so
+
+
+-- Installing: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavutil.so
+
+
+-- Installing: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libswscale.so
+
+
+-- Installing: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavdevice.so
+
+
+-- Installing: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavfilter.so
+
+
+-- Installing: /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libswresample.so
+
+
+adding FFMPEG libraries: [/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavfilter.so, /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavcodec.so, /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libswscale.so, /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavutil.so, /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libswresample.so, /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavformat.so, /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavdevice.so]
+

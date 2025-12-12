@@ -1,0 +1,13 @@
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/CMakeFiles/edit_cache.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/CMakeFiles/rebuild_cache.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/CMakeFiles/list_install_components.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/CMakeFiles/install.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/CMakeFiles/install/local.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/CMakeFiles/install/strip.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv/CMakeFiles/dartcv.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv/CMakeFiles/edit_cache.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv/CMakeFiles/rebuild_cache.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv/CMakeFiles/list_install_components.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv/CMakeFiles/install.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv/CMakeFiles/install/local.dir
+/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv/CMakeFiles/install/strip.dir

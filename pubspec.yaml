@@ -1,0 +1,29 @@
+name: ocvtest
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: ^3.10.3
+
+# Add regular dependencies here.
+dependencies:
+  path: ^1.9.0
+  dartcv4: ^2.1.0+1
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
+
+hooks:
+  user_defines:
+    dartcv4:
+      # debug: true
+      include_modules: # `core` is always included
+        - imgcodecs
+        - imgproc
+        - video
+        - videoio
+
+
+

@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/core/core.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/core.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/core.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/core/core.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/core/mat.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/mat.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/mat.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/core/mat.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/core/exception.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/exception.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/exception.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/core/exception.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/core/logging.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/logging.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/logging.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/core/logging.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/core/svd.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/svd.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/svd.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/core/svd.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/core/utils.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/utils.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/utils.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/core/utils.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/core/version.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/version.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/version.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/core/version.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/core/stdvec.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/stdvec.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/core/stdvec.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/core/stdvec.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/imgcodecs/imgcodecs.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/imgcodecs/imgcodecs.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/imgcodecs/imgcodecs.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/imgcodecs/imgcodecs.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/imgproc/imgproc.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/imgproc/imgproc.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/imgproc/imgproc.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/imgproc/imgproc.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/video/video.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/video/video.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/video/video.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/video/video.cpp.o"
+},
+{
+  "directory": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/dartcv",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -DDART_SHARED_LIB -Ddartcv_EXPORTS -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv -isystem /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/include/opencv4 -isystem /home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/_deps/libopencv-src/ffmpeg/include -march=armv8-a -O3 -DNDEBUG -std=gnu++20 -fPIC -fvisibility=default -o CMakeFiles/dartcv.dir/videoio/videoio.cpp.o -c /home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/videoio/videoio.cpp",
+  "file": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/src/dartcv/videoio/videoio.cpp",
+  "output": "dartcv/CMakeFiles/dartcv.dir/videoio/videoio.cpp.o"
+}
+]

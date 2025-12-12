@@ -1,0 +1,87 @@
+{
+  "assets": [
+    {
+      "encoding": {
+        "file": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libdartcv.so",
+        "id": "package:dartcv4/dartcv.dart",
+        "link_mode": {
+          "type": "dynamic_loading_bundle"
+        }
+      },
+      "type": "code_assets/code"
+    },
+    {
+      "encoding": {
+        "file": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavfilter.so",
+        "id": "package:dartcv4/avfilter.dart",
+        "link_mode": {
+          "type": "dynamic_loading_bundle"
+        }
+      },
+      "type": "code_assets/code"
+    },
+    {
+      "encoding": {
+        "file": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavcodec.so",
+        "id": "package:dartcv4/avcodec.dart",
+        "link_mode": {
+          "type": "dynamic_loading_bundle"
+        }
+      },
+      "type": "code_assets/code"
+    },
+    {
+      "encoding": {
+        "file": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libswscale.so",
+        "id": "package:dartcv4/swscale.dart",
+        "link_mode": {
+          "type": "dynamic_loading_bundle"
+        }
+      },
+      "type": "code_assets/code"
+    },
+    {
+      "encoding": {
+        "file": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavutil.so",
+        "id": "package:dartcv4/avutil.dart",
+        "link_mode": {
+          "type": "dynamic_loading_bundle"
+        }
+      },
+      "type": "code_assets/code"
+    },
+    {
+      "encoding": {
+        "file": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libswresample.so",
+        "id": "package:dartcv4/swresample.dart",
+        "link_mode": {
+          "type": "dynamic_loading_bundle"
+        }
+      },
+      "type": "code_assets/code"
+    },
+    {
+      "encoding": {
+        "file": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavformat.so",
+        "id": "package:dartcv4/avformat.dart",
+        "link_mode": {
+          "type": "dynamic_loading_bundle"
+        }
+      },
+      "type": "code_assets/code"
+    },
+    {
+      "encoding": {
+        "file": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/0c894306e9/install/lib/libavdevice.so",
+        "id": "package:dartcv4/avdevice.dart",
+        "link_mode": {
+          "type": "dynamic_loading_bundle"
+        }
+      },
+      "type": "code_assets/code"
+    }
+  ],
+  "assets_for_linking": {},
+  "status": "success",
+  "timestamp": "2025-12-12 10:22:26.000"
+}

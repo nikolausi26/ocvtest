@@ -1,0 +1,33 @@
+{
+  "assets": {},
+  "config": {
+    "build_asset_types": [
+      "code_assets/code"
+    ],
+    "extensions": {
+      "code_assets": {
+        "link_mode_preference": "dynamic",
+        "target_architecture": "arm64",
+        "target_os": "linux"
+      }
+    },
+    "linking_enabled": false
+  },
+  "out_dir_shared": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/shared/dartcv4/build/",
+  "out_file": "/home/nik/dart/ocvtest/.dart_tool/hooks_runner/dartcv4/0c894306e92a2cb094eba2f8002407f5/output.json",
+  "package_name": "dartcv4",
+  "package_root": "/home/nik/.pub-cache/hosted/pub.dev/dartcv4-2.1.0+1/",
+  "user_defines": {
+    "workspace_pubspec": {
+      "base_path": "/home/nik/dart/ocvtest/pubspec.yaml",
+      "defines": {
+        "include_modules": [
+          "imgcodecs",
+          "imgproc",
+          "video",
+          "videoio"
+        ]
+      }
+    }
+  }
+}
